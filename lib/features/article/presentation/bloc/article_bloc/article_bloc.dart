@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_clean_demo/core/resources/data_strate.dart';
+import 'package:flutter_clean_demo/core/resources/data_state.dart';
 import 'package:flutter_clean_demo/features/article/domain/entities/article_entity.dart';
 import 'package:flutter_clean_demo/features/article/domain/usecases/get_article_usecase.dart';
 

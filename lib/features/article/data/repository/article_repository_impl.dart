@@ -1,7 +1,7 @@
 import 'dart:developer' as console;
 
 import 'package:dio/dio.dart';
-import 'package:flutter_clean_demo/core/resources/data_strate.dart';
+import 'package:flutter_clean_demo/core/resources/data_state.dart';
 import 'package:flutter_clean_demo/features/article/data/data_sources/remote/article_api_service.dart';
 import 'package:flutter_clean_demo/features/article/data/models/article_model.dart';
 import 'package:flutter_clean_demo/features/article/domain/repository/article_repository.dart';
